@@ -66,6 +66,12 @@ python3 shadowdns.py example.com /usr/share/seclists/Discovery/DNS/subdomains-to
 ```bash
 python3 shadowdns.py example.com /usr/share/seclists/Discovery/DNS/subdomains-top1million-110000.txt --timeout 1
 ```
+## 🩸 BLACK HAT DISCLAIMER 🩸
+This tool is not for ethical use. It is designed purely for offensive operations, unauthorized intrusions, and digital domination.
+By using it, you acknowledge full responsibility for any consequences, legal or otherwise.
+The creator neither condones nor denies your actions—we ghost weapons, not excuses.
+Use at your own peril.
+No rules. No mercy. No regrets No law Fuck anything.
 
 ## 🌐 Connect With Us
 
